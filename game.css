@@ -1,0 +1,13 @@
+canvas {
+    display: block;
+}
+
+#canvasPlayer, #canvasEnemy, #canvasHUD {
+    margin: -500px 0 0;
+}
+
+#canvasHUD {
+	z-index: 1; 
+	postion: relative;
+	left: 600px;
+}
