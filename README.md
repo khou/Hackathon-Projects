@@ -8,14 +8,14 @@ To Play click the Play Button on the Main Menu.
 
 
 Bugs: 
-The Collision of the Bullets only allows you to kill enemies with headshots. 
-The Canvas overlaps on the bottom and the player can go off the top. 
+The Collision of the Bullets only allows you to kill enemies with headshots. <br>
+The Canvas overlaps on the bottom and the player can go off the top. <br>
 Score Board will not show up.
 
 Things we want to add: 
 
-Collision With Player and Enememy will end the game. 
-Music. 
+<br>Collision With Player and Enememy will end the game. 
+<br>Music. 
 
 
 
