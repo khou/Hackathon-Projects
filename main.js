@@ -115,7 +115,7 @@ function Player() {
     this.srcY = 478;
     this.width = 18;
     this.height = 24;
-    this.speed = 2;
+    this.speed = 5;
     this.drawX = 40;
     this.drawY = 200;
     this.noseX = this.drawX + 20;
