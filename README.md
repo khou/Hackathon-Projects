@@ -1,3 +1,3 @@
 Hackathon Projects
 </br>
-Only public projects are added.
+Only Public Projects
